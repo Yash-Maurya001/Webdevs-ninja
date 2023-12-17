@@ -9,6 +9,7 @@ function App() {
 
   return (
     <>
+      <SpeedInsights />
       <div className="w-full h-screen flex justify-center items-center mt-[-100px] flex-col gap-6">
         <h1 className="text-3xl font-bold">Counter</h1>
         <div className=" flex  gap-4 items-center ">
